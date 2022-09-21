@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.d819f56d.js",
-    "static/js/787.d3befce1.chunk.js": "/react-gh-pages/static/js/787.d3befce1.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.d819f56d.js.map": "/react-gh-pages/static/js/main.d819f56d.js.map",
-    "787.d3befce1.chunk.js.map": "/react-gh-pages/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/pruebasuwu/static/css/main.073c9b0a.css",
+    "main.js": "/pruebasuwu/static/js/main.12dc64ac.js",
+    "static/js/787.d3befce1.chunk.js": "/pruebasuwu/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/pruebasuwu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pruebasuwu/index.html",
+    "main.073c9b0a.css.map": "/pruebasuwu/static/css/main.073c9b0a.css.map",
+    "main.12dc64ac.js.map": "/pruebasuwu/static/js/main.12dc64ac.js.map",
+    "787.d3befce1.chunk.js.map": "/pruebasuwu/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d819f56d.js"
+    "static/js/main.12dc64ac.js"
   ]
 }
